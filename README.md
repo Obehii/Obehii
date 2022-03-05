@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Obehii
-- 👀 I’m interested in becoming a data analyst
-- 🌱 I’m currently taking the google data analytics course
+- 👀 Aspiring data analyst
+- 🌱 I’m currently taking the datacamp data analyst course
 - 📫 How to reach me email designwithbee@gmail.com
 
 <!---
