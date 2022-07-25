@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ibhagbosoria Blessing 
-- 👀 Aspiring data scientist
-- 🌱 I’m currently taking the datacamp data science course
+- 🌱 Few Projects that i actually did Complete
 - 📫 How to reach me email ibhagbosoriablessing@gmail.com
 
 <!---
