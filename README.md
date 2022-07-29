@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ibhagbosoria Blessing 
-- 🌱 Few Projects that i actually did Complete
+- 🌱 Learning and Growing
 - 📫 How to reach me email ibhagbosoriablessing@gmail.com
 
 <!---
