@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ibhagbosoria Blessing 
-- 🌱 Learning and Growing
+- 🌱 Software Developer
 - 📫 How to reach me email ibhagbosoriablessing@gmail.com
 
 <!---
