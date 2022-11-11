@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ibhagbosoria Blessing 
 - 🌱 Software Developer
-- 📫 How to reach me email ibhagbosoriablessing@gmail.com
 
 <!---
 Obehii/Obehii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
