@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ibhagbosoria Blessing 
-- 🌱 Web/Software Developer
+- 👋 Hi, I’m Blessing 
+  
 
 <!---
 Obehii/Obehii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
